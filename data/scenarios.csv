@@ -1,5 +1,5 @@
 scenario_name,daily_units_sold,unit_sale_price,unit_cost_price,loan_months,loan_monthly_payment
-baseline,30,10,6,0,0
+baseline,50,10,6,0,0
 high sales volume,50,10,6,0,0
 low sales volume,15,10,6,0,0
 high price,30,12,6,0,0
