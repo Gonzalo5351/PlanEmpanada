@@ -1,0 +1,10 @@
+scenario_name,daily_units_sold,unit_sale_price,unit_cost_price,loan_months,loan_monthly_payment
+baseline,30,10,6,0,0
+high sales volume,50,10,6,0,0
+low sales volume,15,10,6,0,0
+high price,30,12,6,0,0
+low price,30,8,6,0,0
+max profit,50,12,6,0,0
+loan scenario 3x2000,48,10,6,3,2000
+loan scenario 6x1000,48,10,6,6,1000
+loan scenario 12x550,48,10,6,12,550
