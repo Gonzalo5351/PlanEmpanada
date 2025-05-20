@@ -10,6 +10,7 @@ def run_csv_simulations(file_path, initial_investment=6000):
             cost = float(row["unit_cost_price"])
             loan_months = int(row["loan_months"])
             loan_payment = float(row["loan_monthly_payment"])
+            
 
             daily_income = units * price
             daily_cost = units * cost

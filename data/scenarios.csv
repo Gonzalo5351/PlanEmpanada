@@ -5,6 +5,6 @@ low sales volume,15,10,6,0,0
 high price,30,12,6,0,0
 low price,30,8,6,0,0
 max profit,50,12,6,0,0
-loan scenario 3x2000,48,10,6,3,2000
-loan scenario 6x1000,48,10,6,6,1000
-loan scenario 12x550,48,10,6,12,550
+loan scenario 3x2000,50,10,6,3,2000
+loan scenario 6x1000,50,10,6,6,1000
+loan scenario 12x550,50,10,6,12,550
